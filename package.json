@@ -1,0 +1,20 @@
+{
+  "name": "youtube-video-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YouTube Video Downloader: Download public YouTube videos and Shorts as MP4 or MP3 in your chosen quality, with title, channel and duration. No login needed. Files saved to storage.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "youtube"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

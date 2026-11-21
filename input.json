@@ -1,0 +1,21 @@
+{
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+    }
+  ],
+  "maxVideos": 10,
+  "preferredQuality": "720p",
+  "preferredFormat": "mp4",
+  "storeInKVStore": true,
+  "filenameTemplateParts": [
+    "title"
+  ],
+  "transcriptionAndSubtitle": "NONE",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
